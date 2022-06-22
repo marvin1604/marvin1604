@@ -4,7 +4,7 @@
 
 hola, mi nombre es **Walter Marvin Rodriguez Sanchez**, soy un **desarrollador Backend**, actualmente estoy mejorando mis habilidades en **Python**. 
 
-  <img align="center" alt="GIF" src="https://geeksgod.com/wp-content/uploads/2020/05/Understanding-of-a-Web-Developer.png" />
+  <img align="center" alt="GIF" src="https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png" />
 
 **Hablando de cosas personales:**
 
