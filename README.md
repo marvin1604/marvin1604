@@ -1,8 +1,8 @@
-# hola, soy walter-rodriguez
+# Hola, soy Walter Rodriguez
 <br />
 <br />
 
-hola, soy **Walter Rodriguez**, soy un **desarrollador Backend**, actualmente estoy mejorando mis habilidades en **Python**. 
+hola, mi nombre es **Walter Marvin Rodriguez Sanchez**, soy un **desarrollador Backend**, actualmente estoy mejorando mis habilidades en **Python**. 
 
   <img align="center" alt="GIF" src="https://geeksgod.com/wp-content/uploads/2020/05/Understanding-of-a-Web-Developer.png" />
 
@@ -18,7 +18,7 @@ hola, soy **Walter Rodriguez**, soy un **desarrollador Backend**, actualmente es
 
 
 ---
-
+<img align="center" alt="GIF" src="https://programacion.net/files/article/20160721020723_python-logo.png" />
 <p align="center">:
 
   
