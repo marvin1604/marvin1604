@@ -11,9 +11,10 @@ Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy un **desarrollador 
 
 - 🤔 Mi interes es el desarrollo web y la inteligencia artificial;
 - 💬 Puedes hacerme cualquier pregunta, Estare feliz de ayudarte;
-- 📫 Porfavor enviame un correo a **walter.rodriguez1992@gmail.com** para contactarte conmigo.
+- 📫 Porfavor enviame un correo a **walter.rodriguez1992@gmail.com** para contactarte conmigo;
 - 🔭 Puedes visitar mi [Portfolio](https://github.com/marvin1604/portafolio);
 - 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1cSY4kdADOdusFTW1EoRFBpd-WDfG8JF8/view?usp=sharing) para mas información;
+- 🔗 Puedes ver mi [Linked] (https://linkedin.com/in/walter-marvin-rodriguez-sanchez-67bb8a1b5). 
 
 
 
