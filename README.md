@@ -18,7 +18,7 @@ Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy un **desarrollador 
 
 
 ---
-<img align="center" alt="GIF" src="https://dc722jrlp2zu8.cloudfront.net/media/cache/6b/18/6b18e01d787af742fe39f0bd656b482c.webp" />
+<img align="center" alt="GIF" src="https://swcrafters.fra1.cdn.digitaloceanspaces.com/Categories/Python_category.png" />
 <p align="center">:
 
   
