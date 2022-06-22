@@ -2,7 +2,7 @@
 <br />
 <br />
 
-hola, mi nombre es **Walter Marvin Rodriguez Sanchez**, soy un **desarrollador Backend**, actualmente estoy mejorando mis habilidades en **Python**. 
+Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy un **desarrollador Backend**, actualmente estoy mejorando mis habilidades en **Python**. 
 
   <img align="center" alt="GIF" src="https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png" />
 
@@ -18,7 +18,7 @@ hola, mi nombre es **Walter Marvin Rodriguez Sanchez**, soy un **desarrollador B
 
 
 ---
-<img align="center" alt="GIF" src="https://programacion.net/files/article/20160721020723_python-logo.png" />
+<img align="center" alt="GIF" src="https://dc722jrlp2zu8.cloudfront.net/media/cache/6b/18/6b18e01d787af742fe39f0bd656b482c.webp" />
 <p align="center">:
 
   
