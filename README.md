@@ -14,8 +14,7 @@ Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy un **desarrollador 
 - 📫 Porfavor enviame un correo a **walter.rodriguez1992@gmail.com** para contactarte conmigo;
 - 🔭 Puedes visitar mi [Portfolio](https://github.com/marvin1604/portafolio);
 - 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1cSY4kdADOdusFTW1EoRFBpd-WDfG8JF8/view?usp=sharing) para más información;
-- 🔗 Puedes ver mi  [Linked](https://linkedin.com/in/walter-marvin-rodriguez-sanchez-67bb8a1b5) para contactarme.
-
+- 🔗 Puedes ver mi  [Linkedin](https://linkedin.com/in/walter-marvin-rodriguez-sanchez-67bb8a1b5) para contactarme.
 
 
 
