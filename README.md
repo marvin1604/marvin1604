@@ -15,7 +15,7 @@ conocimientos y experiencia trabajando con FastAPI, Flask y Django y quiero apor
 - 📫 Porfavor enviame un correo a **walter.rodriguez1992@gmail.com** para contactarte conmigo;
 - 🔭 Puedes visitar mi [Portafolio](https://marvin1604.github.io/portafolio/);
 - 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1vknRLtTCIvzQjGVY7F0G4fQCGpI4QyWr/view?usp=sharing) para más información;
-- 🔗 Puedes ver mi  [Linkedin](www.linkedin.com/in/walter-rodriguez-sanchez-67bb8a1b5) para contactarme.
+- 🔗 Puedes ver mi  [Linkedin](www.linkedin.com/in/walter-rodriguez-sanchez) para contactarme.
 
 
 
