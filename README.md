@@ -2,7 +2,7 @@
 <br />
 <br />
 
-Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy un **desarrollador Backend**, actualmente estoy mejorando mis habilidades en **Python**; Tengo 
+Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy un **desarrollador Backend junior especializado en Python**, actualmente estoy mejorando mis habilidades en **Python**; Tengo
 conocimientos y experiencia trabajando con FastAPI, Flask y Django y quiero aportar mi experiencia a distintos proyectos de desarrollo. 
 
   <img align="center" alt="GIF" src="https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png" />
@@ -10,12 +10,12 @@ conocimientos y experiencia trabajando con FastAPI, Flask y Django y quiero apor
 **Hablando de cosas personales:**
 
 
-- 🤔 Mi interes es el desarrollo web y la inteligencia artificial;
+- 🤔 Mi interes es el desarrollo web e inteligencia artificial;
 - 💬 Puedes hacerme cualquier pregunta, Estare feliz de ayudarte;
 - 📫 Porfavor enviame un correo a **walter.rodriguez1992@gmail.com** para contactarte conmigo;
 - 🔭 Puedes visitar mi [Portafolio](https://marvin1604.github.io/portafolio/);
-- 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1cSY4kdADOdusFTW1EoRFBpd-WDfG8JF8/view?usp=sharing) para más información;
-- 🔗 Puedes ver mi  [Linkedin](https://linkedin.com/in/walter-marvin-rodriguez-sanchez-67bb8a1b5) para contactarme.
+- 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1vknRLtTCIvzQjGVY7F0G4fQCGpI4QyWr/view?usp=sharing) para más información;
+- 🔗 Puedes ver mi  [Linkedin](www.linkedin.com/in/walter-rodriguez-sanchez-67bb8a1b5) para contactarme.
 
 
 
