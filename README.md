@@ -2,8 +2,8 @@
 <br />
 <br />
 
-Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy técnico en electronica y tambien soy un **desarrollador Backend junior especializado en Python**, actualmente estoy mejorando mis habilidades en **Python** y **Javascript**; Tengo
-conocimientos y experiencia trabajando con FastAPI, Flask y Django y quiero aportar mi experiencia a distintos proyectos de desarrollo. 
+Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy técnico en electronica y tambien soy un **desarrollador Frontend junior especializado en javascript y python**, actualmente estoy mejorando mis habilidades en **Python**, **Javascript** y react; Tengo
+conocimientos y experiencia trabajando con Asincronismo, Peticiones y React y quiero aportar mi experiencia a distintos proyectos de desarrollo. 
 
   <img align="center" alt="GIF" src="https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png" />
 
