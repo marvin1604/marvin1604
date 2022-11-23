@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvin1604&label=Profile%20views&color=0e75b6&style=flat" alt="marvin1604" /> </p>
 
-Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy técnico en electronica de formación y además soy **desarrollador **frontend, estoy comprometido y altamente capacitado para diseñar aplicaciones y paginas web responsivas utilizando las ultimas tecnologías.
+Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy técnico en electronica de formación y además soy **desarrollador frontend**, estoy comprometido y altamente capacitado para diseñar aplicaciones y paginas web responsivas utilizando las ultimas tecnologías.
 Mi curiosidad y orientación al detalle me llevan a seguir aprendiendo constantemente para capacitarme y actualizarme de manera continua.
 
 Tengo experiencia en frontend con HTML, CSS, JavaScript, React, así como Git. En backend me encuentro aprendiendo Nodejs, Express, MySQL.
