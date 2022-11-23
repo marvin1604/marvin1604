@@ -5,7 +5,7 @@
 Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy técnico en electronica de formación y además soy **desarrollador **frontend, estoy comprometido y altamente capacitado para diseñar aplicaciones y paginas web responsivas utilizando las ultimas tecnologías.
 Mi curiosidad y orientación al detalle me llevan a seguir aprendiendo constantemente para capacitarme y actualizarme de manera continua.
 
-# Tengo experiencia en frontend con HTML, CSS, JavaScript, React, así como Git. En backend me encuentro aprendiendo Nodejs, Express, MySQL.
+Tengo experiencia en frontend con HTML, CSS, JavaScript, React, así como Git. En backend me encuentro aprendiendo Nodejs, Express, MySQL.
 
   <img align="center" alt="GIF" src="https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png" />
 
