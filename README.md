@@ -7,7 +7,7 @@ Mi curiosidad y orientación al detalle me llevan a seguir aprendiendo constante
 
 Tengo experiencia en frontend con HTML, CSS, JavaScript, React, así como Git. En backend me encuentro aprendiendo Nodejs, Express, MySQL.
 
-  <img align="center" alt="GIF" src="https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png" />
+  <img align="center" alt="GIF" src="[https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png](https://i.postimg.cc/R01khndm/javascript.gif)" />
 
 **Hablando de cosas personales:**
 
