@@ -2,16 +2,18 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvin1604&label=Profile%20views&color=0e75b6&style=flat" alt="marvin1604" /> </p>
 
-Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy técnico en electronica de formación y además soy **desarrollador frontend**, estoy comprometido y altamente capacitado para diseñar aplicaciones y paginas web responsivas utilizando las ultimas tecnologías.
+Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy **desarrollador Fullstack** en la empresa Customer Scoops, me encargo principalmente del desarrollo frontend y algunas funcionalidades en back. 
+Estoy comprometido y altamente capacitado para diseñar aplicaciones y paginas web responsivas utilizando las ultimas tecnologías.
+
 Mi curiosidad y orientación al detalle me llevan a seguir aprendiendo constantemente para capacitarme y actualizarme de manera continua.
 
-Tengo experiencia en frontend con HTML, CSS, JavaScript, React, así como Git. En backend me encuentro aprendiendo Nodejs, Express, MySQL.
+Tengo experiencia en frontend con React, Vue, Atom, JavaScript, Typescript, HTML, CSS, API Rest, así como Git. En backend trabajo con Nodejs, Express, MySQL, PostgresSql.
 
   <img align="center" alt="GIF" src="https://i.postimg.cc/R01khndm/javascript.gif" />
 
 **Hablando de cosas personales:**
 
-- 🔭 I’m currently working on [MovieFy](https://github.com/marvin1604/movieFy)
+- 🔭 I’m currently working on [viteShop](https://viteshop.netlify.app/)
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 
@@ -19,9 +21,9 @@ Tengo experiencia en frontend con HTML, CSS, JavaScript, React, así como Git. E
 
 - 🤝 I’m looking for help with **Reactjs and Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://marvin1604.github.io/portafolio/](https://marvin1604.github.io/portafolio/)
+- 👨‍💻 All of my projects are available at [https://marvin1604-portafolio.netlify.app/](https://marvin1604-portafolio.netlify.app/)
 
-- 💬 Ask me about **Javascript, Html y Css**
+- 💬 Ask me about **React, Javascript, Html y Css**
 
 - 📫 How to reach me **walter.rodriguez.dev@gmail.com**
 
@@ -49,11 +51,11 @@ Tengo experiencia en frontend con HTML, CSS, JavaScript, React, así como Git. E
 - https://platzi.com/p/walter.rodriguez1992/
 
 ---
-<img align="center" alt="GIF" src="https://shots.codepen.io/AnkitNavrang/pen/wvKXKYx-1280.jpg?version=1635862713" />
+<img align="center" alt="GIF" src="https://media.licdn.com/dms/image/D4E16AQHvvY0ARXlkfw/profile-displaybackgroundimage-shrink_350_1400/0/1672232432237?e=1699488000&v=beta&t=g-XLl4JO8nUhR6jmTpPA050TqJduv9gO1F8eng8rX_c" />
 <p align="center">:
 
 ------------
 #### Author
 Marvin1604
-[Link to My portfolio](https://marvin1604.github.io/portafolio/)⭐<br> 
+[Link to My portfolio](https://marvin1604-portafolio.netlify.app/)⭐<br> 
 
