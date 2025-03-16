@@ -2,20 +2,21 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvin1604&label=Profile%20views&color=0e75b6&style=flat" alt="marvin1604" /> </p>
 
-Hola, mi nombre es **Walter Marvin Rodriguez Sánchez**, soy **desarrollador Fullstack** en la empresa Customer Scoops, me encargo principalmente del desarrollo frontend y algunas funcionalidades en back. 
-Estoy comprometido y altamente capacitado para diseñar aplicaciones y paginas web responsivas utilizando las ultimas tecnologías.
+¡Hola! Soy **Walter Marvin Rodriguez Sánchez**, soy **desarrollador Fullstack** un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web escalables y eficientes. Actualmente trabajo en Customer Scoops, donde me enfoco en el desarrollo frontend y en la implementación de funcionalidades en el backend.
 
-Mi curiosidad y orientación al detalle me llevan a seguir aprendiendo constantemente para capacitarme y actualizarme de manera continua.
+🔹 Frontend: React.js, Vue.js, JavaScript, TypeScript, HTML, CSS, API Rest
+🔹 Backend: Node.js, Express, NestJS, MySQL, PostgreSQL
+🔹 Herramientas: Git, GitHub, Docker, Vite, Astro
 
-Tengo experiencia en frontend con React, Vue, Atom, JavaScript, Typescript, HTML, CSS, API Rest, así como Git. En backend trabajo con Nodejs, Express, MySQL, PostgresSql.
+📌 Me encanta explorar nuevas tecnologías y mejorar continuamente mis habilidades. Siempre estoy trabajando en proyectos innovadores, desde herramientas de medición de satisfacción hasta sistemas de gestión para negocios.
 
   <img align="center" alt="GIF" src="https://i.postimg.cc/R01khndm/javascript.gif" />
 
 **Hablando de cosas personales:**
 
-- 🔭 I’m currently working on [viteShop](https://viteshop.netlify.app/)
+- 🔭 I’m currently working on CustommerScoops 
 
-- 🌱 I’m currently learning **Reactjs and Nodejs**
+- 🌱 I’m currently learning **Nextjs and Angular**
 
 - 👯 I’m looking to collaborate on **development project**
 
@@ -49,10 +50,6 @@ Tengo experiencia en frontend con React, Vue, Atom, JavaScript, Typescript, HTML
 
 #### Sigue Mi carrera en Platzi
 - https://platzi.com/p/walter.rodriguez1992/
-
----
-<img align="center" alt="GIF" src="https://media.licdn.com/dms/image/D4E16AQHvvY0ARXlkfw/profile-displaybackgroundimage-shrink_350_1400/0/1672232432237?e=1699488000&v=beta&t=g-XLl4JO8nUhR6jmTpPA050TqJduv9gO1F8eng8rX_c" />
-<p align="center">:
 
 ------------
 #### Author
