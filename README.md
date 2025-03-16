@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvin1604&label=Profile%20views&color=0e75b6&style=flat" alt="marvin1604" /> </p>
 
-¡Hola! Soy **Walter Marvin Rodriguez Sánchez**, soy **desarrollador Fullstack** un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web escalables y eficientes. Actualmente trabajo en Customer Scoops, donde me enfoco en el desarrollo frontend y en la implementación de funcionalidades en el backend.
+¡Hola! Soy **Walter Marvin Rodriguez Sánchez**, un apasionado **desarrollador Fullstack** con experiencia mas de 2 años en la creación de aplicaciones web escalables y eficientes. Actualmente trabajo en Customer Scoops, donde me enfoco en el desarrollo frontend y en la implementación de funcionalidades en el backend.
 
-🔹 Frontend: React.js, Vue.js, JavaScript, TypeScript, HTML, CSS, API Rest
-🔹 Backend: Node.js, Express, NestJS, MySQL, PostgreSQL
-🔹 Herramientas: Git, GitHub, Docker, Vite, Astro
+- Frontend: React.js, Vue.js, JavaScript, TypeScript, HTML, CSS, API Rest
+- Backend: Node.js, Express, NestJS, MySQL, PostgreSQL
+- Herramientas: Git, GitHub, Docker, Vite, Astro
 
 📌 Me encanta explorar nuevas tecnologías y mejorar continuamente mis habilidades. Siempre estoy trabajando en proyectos innovadores, desde herramientas de medición de satisfacción hasta sistemas de gestión para negocios.
 
